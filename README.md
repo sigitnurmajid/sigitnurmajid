@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **sigitnurmajid32@gmail.com**
 
+- 🎯 My portofolio website [**portfolio-sigitnurmajid.vercel.app**](https://portfolio-sigitnurmajid.vercel.app/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sortsigitgiist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sortsigitgiist" height="30" width="40" /></a>
